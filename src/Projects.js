@@ -39,7 +39,7 @@ export default class Projects extends Component {
                                 </a>
                                 </div>
                                 <div className="project-container ftco-animate ftco-animated">
-                                <a className="speed-math-icon project-icons" href="#" target="_blank">
+                                <a className="speed-math-icon project-icons" href="http://sportrelay-frontend.herokuapp.com/" target="_blank">
                                 <span className="icon" ><FaComments /> </span>
                                 <h3>Sport Relay</h3>
                                 <div className="sub mb-3">Team Work</div>
